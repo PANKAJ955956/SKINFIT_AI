@@ -1,0 +1,135 @@
+[
+  {
+    "id": "ex-001",
+    "name": "Thoracic Extension & Foam Roller Opener",
+    "category": "posture",
+    "target_muscle": "Upper Back, Thoracic Spine, Chest",
+    "difficulty": "beginner",
+    "equipment": "foam_roller_or_towel",
+    "duration_seconds": 180,
+    "sets": 3,
+    "reps": "10 slow extensions",
+    "calories_burned_est": 15,
+    "instructions": [
+      "Place the foam roller perpendicular to your spine across your mid-back / shoulder blade area.",
+      "Support your head with your hands, keeping your elbows wide.",
+      "Inhale and gently extend backward over the roller, then exhale and return to neutral without arching lower back.",
+      "Move up and down 1-2 inches along the thoracic spine."
+    ],
+    "posture_benefit": "Counters forward head posture and rounded shoulders from desk work."
+  },
+  {
+    "id": "ex-002",
+    "name": "Wall Angels with Scapular Retraction",
+    "category": "posture",
+    "target_muscle": "Rhomboids, Lower Traps, Rotator Cuff",
+    "difficulty": "beginner",
+    "equipment": "wall",
+    "duration_seconds": 120,
+    "sets": 3,
+    "reps": "12 reps",
+    "calories_burned_est": 12,
+    "instructions": [
+      "Stand with back flat against a wall, heels 3-4 inches away.",
+      "Press lower back, upper back, and head gently into the wall.",
+      "Bring elbows and backs of wrists to touch the wall in a 'W' or 'goalpost' shape.",
+      "Slowly slide arms upward overhead maintaining wall contact as much as comfortable, then return."
+    ],
+    "posture_benefit": "Activates mid-back postural stabilizers and opens anterior shoulder capsule."
+  },
+  {
+    "id": "ex-003",
+    "name": "Bird-Dog Core & Posterior Chain Integration",
+    "category": "core",
+    "target_muscle": "Transverse Abdominis, Gluteus Maximus, Erector Spinae",
+    "difficulty": "intermediate",
+    "equipment": "mat",
+    "duration_seconds": 240,
+    "sets": 3,
+    "reps": "10 reps per side",
+    "calories_burned_est": 25,
+    "instructions": [
+      "Start on all fours with hands under shoulders and knees directly under hips.",
+      "Engage your deep core and brace as if about to be poked in the ribs.",
+      "Simultaneously reach your right arm forward and left leg backward until parallel to the floor.",
+      "Hold for 2 seconds at the top without rotating hips or arching lumbar spine, then switch sides."
+    ],
+    "posture_benefit": "Reinforces neutral pelvic alignment and anti-rotational spinal endurance."
+  },
+  {
+    "id": "ex-004",
+    "name": "Glute Bridge with Isometric Hold",
+    "category": "lower_body",
+    "target_muscle": "Glutes, Hamstrings, Pelvic Floor",
+    "difficulty": "beginner",
+    "equipment": "mat_optional_band",
+    "duration_seconds": 180,
+    "sets": 3,
+    "reps": "15 reps (3s hold)",
+    "calories_burned_est": 30,
+    "instructions": [
+      "Lie on back with knees bent and feet flat on the floor hip-width apart.",
+      "Press through heels and squeeze glutes to elevate hips until hips, knees and shoulders form a straight line.",
+      "Hold the contraction at the peak for 3 seconds without over-extending lumbar spine.",
+      "Lower under control and repeat."
+    ],
+    "posture_benefit": "Counters anterior pelvic tilt caused by prolonged sedentary sitting."
+  },
+  {
+    "id": "ex-005",
+    "name": "Dead Bug Anti-Extension Core Control",
+    "category": "core",
+    "target_muscle": "Core, Hip Flexors, Diaphragm",
+    "difficulty": "intermediate",
+    "equipment": "mat",
+    "duration_seconds": 180,
+    "sets": 3,
+    "reps": "12 alternating reps",
+    "calories_burned_est": 20,
+    "instructions": [
+      "Lie on back with arms reaching toward ceiling and knees bent at 90 degrees.",
+      "Flatten lower back firmly into the floor so there is zero gap.",
+      "Slowly extend right arm overhead and left leg outward just above the floor.",
+      "Return to starting point and repeat with opposite limbs while maintaining flat spine."
+    ],
+    "posture_benefit": "Teaches pelvic stabilization and deep anterior abdominal brace."
+  },
+  {
+    "id": "ex-006",
+    "name": "Bodyweight Tempo Squats",
+    "category": "strength",
+    "target_muscle": "Quadriceps, Glutes, Adductors, Core",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "duration_seconds": 300,
+    "sets": 4,
+    "reps": "12-15 reps (3-1-1 tempo)",
+    "calories_burned_est": 45,
+    "instructions": [
+      "Stand tall with feet shoulder-width apart, toes turned slightly outward.",
+      "Descend over 3 seconds by hinging at hips and bending knees, keeping chest lifted.",
+      "Descend until thighs are parallel to ground, pause for 1 second, then drive up powerfully.",
+      "Keep knees tracking in line with second toes throughout."
+    ],
+    "posture_benefit": "Builds fundamental lower-body metabolic strength and hip mobility."
+  },
+  {
+    "id": "ex-007",
+    "name": "Elevated Push-Ups / Standard Push-Ups",
+    "category": "strength",
+    "target_muscle": "Pectorals, Anterior Deltoids, Triceps, Core",
+    "difficulty": "intermediate",
+    "equipment": "none_or_bench",
+    "duration_seconds": 240,
+    "sets": 3,
+    "reps": "10-12 reps",
+    "calories_burned_est": 35,
+    "instructions": [
+      "Set hands slightly wider than shoulder-width on floor (or bench for elevation).",
+      "Form a rigid plank line from crown of head to heels, glutes squeezed.",
+      "Lower chest towards ground by breaking at elbows at a 45-degree angle.",
+      "Press through full palms back to locked plank position."
+    ],
+    "posture_benefit": "Develops horizontal pressing power and total body bracing stamina."
+  }
+]

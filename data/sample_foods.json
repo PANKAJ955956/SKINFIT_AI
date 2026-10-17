@@ -1,0 +1,72 @@
+[
+  {
+    "id": "food-001",
+    "name": "Mediterranean Wild Salmon & Quinoa Bowl",
+    "category": "lunch_dinner",
+    "calories": 520,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fats_g": 22,
+    "fiber_g": 7,
+    "micronutrients": ["Omega-3 Fatty Acids", "Astaxanthin", "Vitamin D", "Magnesium"],
+    "dietary_flags": ["gluten-free", "pescatarian", "high-protein", "skin-glow"],
+    "skin_wellness_benefits": "High EPA/DHA omega-3 fatty acids reinforce cellular membrane fluidity and reduce systemic skin inflammatory markers.",
+    "recipe_summary": "Pan-seared wild salmon fillet served over fluffy rainbow quinoa, massaged kale, cherry tomatoes, cucumbers, kalamata olives, and extra virgin olive oil drizzle."
+  },
+  {
+    "id": "food-002",
+    "name": "Golden Turmeric Antioxidant Chia Pudding",
+    "category": "breakfast_snack",
+    "calories": 290,
+    "protein_g": 11,
+    "carbs_g": 28,
+    "fats_g": 15,
+    "fiber_g": 12,
+    "micronutrients": ["Curcumin", "Alpha-Linolenic Acid", "Calcium", "Zinc"],
+    "dietary_flags": ["vegan", "dairy-free", "gluten-free", "anti-inflammatory"],
+    "skin_wellness_benefits": "Chia seeds provide hydrophilic fiber for digestive regularity, while curcumin reduces oxidative cellular stress.",
+    "recipe_summary": "Black chia seeds soaked in unsweetened almond milk with organic turmeric root powder, Ceylon cinnamon, pure ginger, and a topping of fresh blueberries and crushed walnuts."
+  },
+  {
+    "id": "food-003",
+    "name": "Grilled Lemon Herb Tempeh with Roasted Veggies",
+    "category": "lunch_dinner",
+    "calories": 440,
+    "protein_g": 31,
+    "carbs_g": 36,
+    "fats_g": 18,
+    "fiber_g": 10,
+    "micronutrients": ["Isoflavones", "Prebiotics", "Vitamin C", "Folate"],
+    "dietary_flags": ["vegan", "plant-based", "gut-friendly", "high-fiber"],
+    "skin_wellness_benefits": "Fermented whole organic soy promotes a diverse gut microbiome, directly supporting the gut-skin axis.",
+    "recipe_summary": "Marinated organic tempeh triangles grilled with fresh rosemary and garlic, served with oven-roasted bell peppers, zucchini, and sweet potato cubes."
+  },
+  {
+    "id": "food-004",
+    "name": "Greek Yogurt Berry Collagen Crunch",
+    "category": "breakfast_snack",
+    "calories": 310,
+    "protein_g": 26,
+    "carbs_g": 32,
+    "fats_g": 9,
+    "fiber_g": 6,
+    "micronutrients": ["Probiotics", "Vitamin C", "Anthocyanins", "B-Complex"],
+    "dietary_flags": ["vegetarian", "high-protein", "probiotic"],
+    "skin_wellness_benefits": "Live active probiotic cultures balance gut flora while anthocyanin-rich berries scavenge photo-oxidative free radicals.",
+    "recipe_summary": "Whole milk unsweetened Greek yogurt layered with wild blackberries, sliced strawberries, pumpkin seeds, raw sunflower seeds, and a sprinkle of organic bee pollen."
+  },
+  {
+    "id": "food-005",
+    "name": "Hydrating Cucumber & Avocado Green Gazpacho",
+    "category": "lunch_dinner",
+    "calories": 260,
+    "protein_g": 6,
+    "carbs_g": 18,
+    "fats_g": 20,
+    "fiber_g": 8,
+    "micronutrients": ["Potassium", "Vitamin E", "Lutein", "Silica"],
+    "dietary_flags": ["vegan", "raw", "keto-friendly", "ultra-hydrating"],
+    "skin_wellness_benefits": "Silica and electrolyte-rich cucumber pulp combined with monounsaturated avocado fats enhance dermal water retention.",
+    "recipe_summary": "Chilled soup blended with fresh Persian cucumbers, ripe Haas avocado, fresh mint, coriander, lime juice, sea salt, and extra virgin cold-pressed olive oil."
+  }
+]
